@@ -1,0 +1,1 @@
+LAVA is a fully local AI voice assistant that runs 100% on your device, even offline, with no internet and no API cost. Speak in any of 15 languages and get your answer back in text and voice in any of those 15 languages. Plus translation and summarization, including any text you select on a page, all on-device, nothing sent to any server.

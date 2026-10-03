@@ -1,8 +1,23 @@
-Local AI voice assistant.  Hands-free, 15 languages, ideal for students.
+# <img src="images/logo.png" width="40" valign="middle"/> LAVA: Local AI Voice Assistant
+> **Hands-free, 15 languages, ideal for students.**
+
+[![Chrome Web Store](https://shields.io)](https://chromewebstore.google.com/detail/lava-local-ai-voice-assis/ldddhgaipfjeanombjgdofccfnpfkien)
+![On-Device AI](https://shields.io)
+![Privacy](https://shields.io)
 
 LAVA- Local AI voice assistant. Talk to AI Locally - 100% on-device, no backend servers, works Offline, no Signup, maximum privacy, 100% Free & Unlimited, No API cost.
 
 LAVA turns Google Chrome into a free AI companion with text and voice response that understand your spoken language and speaks answers instantly in multiple languages and works Offline without internet. Because it runs entirely on your own computer using Chrome’s built-in Gemini Nano AI, you get unlimited free usage without risking your privacy. Your data is never sent to any backend AI server for processing. It's Ultra lightweight on your CPU and Battery.
+
+---
+
+## 📸 Media Preview
+
+| Multilingual Support (15 Languages) | Core Features Overview |
+| :---: | :---: |
+| <img src="images/languages.png" width="450" alt="LAVA 15 Languages"/> | <img src="images/features.png" width="450" alt="LAVA Features"/> |
+
+---
 
 What Can You Do With It? 
 1.Hands-Free Learning: Perfect for students looking to simply speak their STEM homework questions vocally and get instant answers just like Alexa and Google Home. 

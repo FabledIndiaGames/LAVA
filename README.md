@@ -8,13 +8,12 @@ LAVA- Local AI voice assistant. Talk to AI Locally - 100% on-device, no backend 
 
 LAVA turns Google Chrome into a free AI companion with text and voice response that understand your spoken language and speaks answers instantly in multiple languages and works Offline without internet. Because it runs entirely on your own computer using Chrome’s built-in Gemini Nano AI, you get unlimited free usage without risking your privacy. Your data is never sent to any backend AI server for processing. It's Ultra lightweight on your CPU and Battery.
 
----
+<p align="center">
+  <video src="https://raw.githubusercontent.com/FabledIndiaGames/LAVA/main/images/promo.mp4" width="700" controls autoplay muted loop playsinline></video>
+</p>
 
 ## 📸 Media Preview
 
-<p align="center">
-  <video src="https://github.com/FabledIndiaGames/LAVA/tree/main/images/promo.mp4" width="700" controls autoplay muted loop playsinline></video>
-</p>
 
 | | |
 | :---: | :---: |

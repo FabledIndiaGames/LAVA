@@ -1,4 +1,4 @@
-# <img src="images/logo.png" width="40" valign="middle"/> LAVA: Local AI Voice Assistant
+# <img src="images/lava-logo.svg" width="40" valign="middle"/> LAVA: Local AI Voice Assistant
 > **Hands-free, 15 languages, ideal for students.**
 
 [![Chrome Web Store](https://shields.io)](https://chromewebstore.google.com/detail/lava-local-ai-voice-assis/ldddhgaipfjeanombjgdofccfnpfkien)
@@ -15,8 +15,9 @@ LAVA turns Google Chrome into a free AI companion with text and voice response t
 
 | Multilingual Support (15 Languages) | Core Features Overview |
 | :---: | :---: |
-| <img src="images/languages.png" width="450" alt="LAVA 15 Languages"/> | <img src="images/features.png" width="450" alt="LAVA Features"/> |
-
+| <img src="images/banner-free.svg" width="450" alt="LAVA Free"/> | <img src="images/banner-languages.svg" width="450" alt="LAVA 15 Languages"/> |
+|<img src="images/banner-privacy.svg" width="450" alt="LAVA Privacy"/> |<img src="images/banner-how.svg" width="450" alt="LAVA How It Works"/> |
+|<img src="images/banner-life.svg" width="450" alt="LAVA Life"/> |
 ---
 
 What Can You Do With It? 

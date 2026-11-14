@@ -2,8 +2,7 @@
 > **Hands-free, 15 languages, ideal for students.**
 
 [![Chrome Web Store](https://shields.io)](https://chromewebstore.google.com/detail/lava-local-ai-voice-assis/ldddhgaipfjeanombjgdofccfnpfkien)
-![On-Device AI](https://shields.io)
-![Privacy](https://shields.io)
+
 
 LAVA- Local AI voice assistant. Talk to AI Locally - 100% on-device, no backend servers, works Offline, no Signup, maximum privacy, hands free mode, 100% Free & Unlimited, No API cost.
 

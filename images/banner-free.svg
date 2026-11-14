@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g>
+    <rect x="80" y="60" width="76" height="76" rx="14" fill="#F05252"/>
+    <text x="118" y="98" text-anchor="middle" font-size="24" font-weight="bold" fill="#fff">LAVA</text>
+    <g fill="#fff">
+      <rect x="92" y="106" width="4" height="10" rx="2"/>
+      <rect x="99" y="102" width="4" height="18" rx="2"/>
+      <rect x="106" y="108" width="4" height="7" rx="2"/>
+      <rect x="113" y="100" width="4" height="22" rx="2"/>
+      <rect x="120" y="108" width="4" height="7" rx="2"/>
+      <rect x="127" y="102" width="4" height="18" rx="2"/>
+      <rect x="134" y="106" width="4" height="10" rx="2"/>
+    </g>
+  </g>
+  <text x="80" y="215" font-size="34" letter-spacing="6" fill="#F05252">FREE, UNLIMITED, OFFLINE</text>
+  <text x="76" y="350" font-size="104" font-weight="800" fill="#16161A">Chat as much as</text>
+  <text x="76" y="462" font-size="104" font-weight="800" fill="#16161A">you want,</text>
+  <text x="76" y="574" font-size="104" font-weight="800" fill="#F05252">even offline.</text>
+  <text x="80" y="650" font-size="34" fill="#555555">No tokens. No subscriptions. No API keys.</text>
+  <rect x="1062" y="170" width="458" height="560" rx="36" fill="#F05252"/>
+  <text x="1291" y="400" text-anchor="middle" font-size="110" fill="#ffffff">∞</text>
+  <text x="1291" y="540" text-anchor="middle" font-size="150" font-weight="800" fill="#ffffff">$0</text>
+  <text x="1291" y="620" text-anchor="middle" font-size="48" fill="#ffffff">forever.</text>
+  <text x="80" y="832" font-size="26" letter-spacing="4" fill="#888888">A VOICE ASSISTANT THAT LIVES INSIDE YOUR WEB BROWSER</text>
+</svg>

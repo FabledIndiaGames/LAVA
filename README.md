@@ -13,6 +13,10 @@ LAVA turns Google Chrome into a free AI companion with text and voice response t
 
 ## 📸 Media Preview
 
+<p align="center">
+  <video src="images/promo.mp4" width="700" controls autoplay muted loop playsinline></video>
+</p>
+
 | Multilingual Support (15 Languages) | Core Features Overview |
 | :---: | :---: |
 | <img src="images/banner-free.svg" width="450" alt="LAVA Free"/> | <img src="images/banner-languages.svg" width="450" alt="LAVA 15 Languages"/> |
